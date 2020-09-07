@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
-    "bulid": "vuepress bulid",
+    "build": "vuepress build",
     "deploy": "bash deploy.sh", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
