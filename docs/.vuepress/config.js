@@ -32,6 +32,15 @@ module.exports = {
                         ['/web/WeChatApplets/',"获取用户信息"],
                         ["/web/WeChatApplets/userAccredit.md", "用户授权"]
                     ]
+                },
+                {
+                    title: "CSS3",
+                    name: "CSS3",
+                    collabsable: false,
+                    children: [
+                        ['/web/CSS3/',"CSS3"],
+                        ["/web/CSS3/displayFlexGrid.md", "display的Flex、Grid属性"]
+                    ]
                 }
                 
             ]
@@ -42,8 +51,8 @@ module.exports = {
             }, { 
                 text: "前端", 
                 items:[
-                    { text: "HTML", link: "/web/html/" },
-                    { text: "CSS", link: "/web/css/" },
+                    { text: "HTML", link: "/web/HTML/" },
+                    { text: "CSS3", link: "/web/CSS3/" },
                     { text: "WeChatApplets", link: "/web/WeChatApplets/" },
                 ]
             }, { 

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: .vuepress/public/image/home1.jpg
+heroImage: /image/home1.jpg
 actionText: Get Started →
 actionLink: /vue/
 features:
