@@ -1,4 +1,5 @@
 module.exports = {
+    base: "/MyVueproess/",
     title: "TuoYingtao的博客",
     description: "专注于个人学习技术栈分享，从前端到后端",
 
