@@ -6,7 +6,7 @@ node_modules
 
 
 # 自动部署脚本
-deploy.sh
+# deploy.sh
 
 
 .gitignore
