@@ -1,6 +1,6 @@
 module.exports = {
     plugins: ['@vuepress/nprogress'],   //  进度条插件
-    base: "/MyVueproess/",
+    base: "/MyVuepress/",
     title: "TuoYingtao的博客",
     description: "专注于个人学习技术栈分享，从前端到后端",
 
